@@ -1,1 +1,1 @@
-# this the homepage of my association project
+# this is the homepage of my association project
